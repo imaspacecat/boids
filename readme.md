@@ -1,6 +1,4 @@
 # boids
-
+based off: [Boids algorithm](https://vanhunteradams.com/Pico/Animal_Movement/Boids-algorithm.html)
 ### todo
-- fix arrow rotation
-- implement the rest of the features
 - menu to mess with all the constants
